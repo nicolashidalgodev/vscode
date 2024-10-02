@@ -1,4 +1,15 @@
 
+class Hola {
+
+   constructor(){
+      console.log('Hola initialized');
+   }
+
+   showHola() {
+      return this;
+   }
+
+}
 
 
 

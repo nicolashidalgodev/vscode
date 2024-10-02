@@ -1,6 +1,6 @@
 
 // Extensión Paste JSON as Code
-// https://pokeapi.co/
+// https://pokeapi.co/z
 
 
 
